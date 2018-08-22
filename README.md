@@ -2,9 +2,7 @@
 
 Jupyter notebooks with radar instrument design information.
 
-```
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/blair3sat/radar-sandbox/master)
-```
 
 *Instructions on running Binder:*
 
